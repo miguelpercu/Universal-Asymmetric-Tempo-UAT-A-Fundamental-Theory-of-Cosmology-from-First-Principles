@@ -1,0 +1,105 @@
+@article{Riess2021,
+    author = {Riess, Adam G. and et al.},
+    title = {A Comprehensive Measurement of the Local Value of the Hubble Constant with 1 km/s/Mpc Uncertainty from the Hubble Space Telescope and the SH0ES Team},
+    journal = {The Astrophysical Journal Letters},
+    volume = {934},
+    number = {1},
+    pages = {L7},
+    year = {2022},
+    doi = {10.3847/2041-8213/ac5c5b}
+}
+
+@article{Weinberg1989,
+    author = {Weinberg, Steven},
+    title = {The Cosmological Constant Problem},
+    journal = {Reviews of Modern Physics},
+    volume = {61},
+    number = {1},
+    pages = {1--23},
+    year = {1989},
+    doi = {10.1103/RevModPhys.61.1}
+}
+
+@article{Planck2018,
+    author = {Planck Collaboration},
+    title = {Planck 2018 results. VI. Cosmological parameters},
+    journal = {Astronomy \& Astrophysics},
+    volume = {641},
+    pages = {A6},
+    year = {2020},
+    doi = {10.1051/0004-6361/201833910}
+}
+
+@article{Ashtekar2004,
+    author = {Ashtekar, Abhay and Lewandowski, Jerzy},
+    title = {Background Independent Quantum Gravity: A Status Report},
+    journal = {Classical and Quantum Gravity},
+    volume = {21},
+    number = {15},
+    pages = {R53},
+    year = {2004},
+    doi = {10.1088/0264-9381/21/15/R01}
+}
+
+@article{Deser1975,
+    author = {Deser, S. and Isham, C. J.},
+    title = {Canonical Vierbein Form of General Relativity},
+    journal = {Physical Review D},
+    volume = {12},
+    number = {12},
+    pages = {3850--3857},
+    year = {1975},
+    doi = {10.1103/PhysRevD.12.3850}
+}
+
+@article{Einstein1915,
+    author = {Einstein, Albert},
+    title = {Die Feldgleichungen der Gravitation},
+    journal = {Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften},
+    pages = {844--847},
+    year = {1915}
+}
+
+@article{Friedman1922,
+    author = {Friedman, Alexander},
+    title = {Über die Krümmung des Raumes},
+    journal = {Zeitschrift für Physik},
+    volume = {10},
+    number = {1},
+    pages = {377--386},
+    year = {1922},
+    doi = {10.1007/BF01332580}
+}
+
+@article{Hawking1974,
+    author = {Hawking, S. W.},
+    title = {Black hole explosions?},
+    journal = {Nature},
+    volume = {248},
+    number = {5443},
+    pages = {30--31},
+    year = {1974},
+    doi = {10.1038/248030a0}
+}
+
+@article{Guth1981,
+    author = {Guth, Alan H.},
+    title = {Inflationary universe: A possible solution to the horizon and flatness problems},
+    journal = {Physical Review D},
+    volume = {23},
+    number = {2},
+    pages = {347--356},
+    year = {1981},
+    doi = {10.1103/PhysRevD.23.347}
+}
+
+@article{Perlmutter1999,
+    author = {Perlmutter, Saul and et al.},
+    title = {Measurements of Ω and Λ from 42 high-redshift supernovae},
+    journal = {The Astrophysical Journal},
+    volume = {517},
+    number = {2},
+    pages = {565--586},
+    year = {1999},
+    doi = {10.1086/307221}
+}
